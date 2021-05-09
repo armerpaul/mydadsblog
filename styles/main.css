@@ -66,14 +66,16 @@ blockquote {
 
 [role="navigation"] ul {
   display: flex;
-  flex-direction: row; }
-  [role="navigation"] ul li {
-    padding-right: 1em; }
-    [role="navigation"] ul li:not(:first-child):before {
-      content: ' | ';
-      display: inline-block;
-      margin-right: 0.5rem; }
-
+  flex-direction: column; }
+  @media (min-width: 480px) {
+    [role="navigation"] ul {
+      flex-direction: row; }
+      [role="navigation"] ul li {
+        padding-right: 1em; }
+        [role="navigation"] ul li:not(:first-child):before {
+          content: ' | ';
+          display: inline-block;
+          margin-right: 0.5rem; } }
 article {
   width: 100%;
   display: flex;

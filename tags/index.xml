@@ -26,18 +26,9 @@
     </item>
     
     <item>
-      <title>covid</title>
-      <link>http://mydadsblog.com/tags/covid/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://mydadsblog.com/tags/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rant</title>
       <link>http://mydadsblog.com/tags/rant/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://mydadsblog.com/tags/rant/</guid>
       <description></description>
@@ -46,9 +37,18 @@
     <item>
       <title>vaccines</title>
       <link>http://mydadsblog.com/tags/vaccines/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://mydadsblog.com/tags/vaccines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid</title>
+      <link>http://mydadsblog.com/tags/covid/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/tags/covid/</guid>
       <description></description>
     </item>
     
