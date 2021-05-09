@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facebook on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/facebook/</link>
+    <description>Recent content in facebook on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Have a Friend</title>
+      <link>http://mydadsblog.com/posts/i-have-a-friend/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/i-have-a-friend/</guid>
+      <description>I have a friend (besides you) that produces TV shows. He told me something that depressed him, and myself. The TV network that his shows are produced under had to change the script of the shows to accommodate their audience. Their audience is skewed to one side of our political divide. He needed to change the flow of the script to not emphasize that COVID-19 was a real fact because that is what their audience believes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -51,6 +51,13 @@ a {
 small a {
   color: #252525; }
 
+blockquote {
+  border-left: 0.25rem solid #8e9ccc;
+  padding-left: 1rem;
+  margin-inline-start: 1rem;
+  margin-inline-end: 1rem;
+  font-style: italic; }
+
 [role="navigation"] [role="logo"] {
   color: #252525;
   font-size: 2rem;
@@ -71,6 +78,8 @@ article {
   width: 100%;
   display: flex;
   flex-direction: row; }
+  article img {
+    max-width: 100%; }
 
 #doc-list [role="listitem"] {
   display: flex;
@@ -92,8 +101,16 @@ body {
       margin: 5rem 0 0 5rem;
       padding: 0; } }
   body > main {
-    padding-top: 5rem;
     display: flex;
-    flex-direction: column; }
+    flex-direction: column;
+    padding-top: 3rem;
+    padding-bottom: 2rem; }
     body > main header {
-      margin-bottom: 2.75rem; }
+      margin-bottom: 1rem; }
+      @media (min-width: 720px) {
+        body > main header {
+          margin-bottom: 2.75rem; } }
+    @media (min-width: 720px) {
+      body > main {
+        padding-top: 5rem;
+        padding-bottom: 5rem; } }

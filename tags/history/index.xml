@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>history on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/history/</link>
+    <description>Recent content in history on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on St Patrick</title>
+      <link>http://mydadsblog.com/posts/rant-on-st-patrick/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-st-patrick/</guid>
+      <description>St. Patrick, considered the patron saint of Ireland, was born in, a town in Roman Britain, sometime around 380 AD. He wrote in one of his writings:
+ My name is Patrick. I am a sinner, a simple country person, and the least of all believers&amp;hellip; My father was Calpornius. He was a deacon; his father was Potitus, a priest, who lived at Bannavem Taburniae. His home was near there, and that is where I was taken prisoner.</description>
+    </item>
+    
+  </channel>
+</rss>

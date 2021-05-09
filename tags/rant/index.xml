@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rant on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/rant/</link>
+    <description>Recent content in rant on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on Vaccine Efficacy</title>
+      <link>http://mydadsblog.com/posts/rant-on-vaccine-efficacy/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-vaccine-efficacy/</guid>
+      <description>A friend’s adult son was hesitant get a particular vaccine thinking one was a lot better than another. He had heard about the different “efficacy” rates. I also heard about a phlebotomist (the person who takes you blood) saying he was going to wait for “the vaccine for black people”. The latter worried me the most because that person is in the health care industry and is still poorly informed.</description>
+    </item>
+    
+    <item>
+      <title>Rant on St Patrick</title>
+      <link>http://mydadsblog.com/posts/rant-on-st-patrick/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-st-patrick/</guid>
+      <description>St. Patrick, considered the patron saint of Ireland, was born in, a town in Roman Britain, sometime around 380 AD. He wrote in one of his writings:
+ My name is Patrick. I am a sinner, a simple country person, and the least of all believers&amp;hellip; My father was Calpornius. He was a deacon; his father was Potitus, a priest, who lived at Bannavem Taburniae. His home was near there, and that is where I was taken prisoner.</description>
+    </item>
+    
+    <item>
+      <title>Rant on Crispr</title>
+      <link>http://mydadsblog.com/posts/rant-on-crispr/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-crispr/</guid>
+      <description>You have heard about CRISPR, I suspect. It is a gene-editing technology which can modify, delete or correct (modify) precise regions of DNA or RNA. If you want a treatise on the interaction of DNA and RNA, let me know. But in a drastic simplification: a DNA strand reproduces itself by breaking in specific places, uses RNA to make a copy of the DNA strands, and then reconnects the duplicated pieces to form a duplicate of the original.</description>
+    </item>
+    
+    <item>
+      <title>Missing Flu - A Rant</title>
+      <link>http://mydadsblog.com/posts/missing-flu-a-rant/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/missing-flu-a-rant/</guid>
+      <description>I started to follow the new mRNA technique of fighting “the flu” in 2018. It was novel because it was not trying to anticipate the internal DNA or internal RNA, but the external part of the virus. Rather than a specific antigen to what they guessed would be next year’s virus, it was thought that to attack the external attachment would be more general. Thus it was hoped to be a multiyear approach.</description>
+    </item>
+    
+  </channel>
+</rss>

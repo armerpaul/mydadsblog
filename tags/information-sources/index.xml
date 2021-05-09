@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>information-sources on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/information-sources/</link>
+    <description>Recent content in information-sources on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/information-sources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some of This Was Interesting</title>
+      <link>http://mydadsblog.com/posts/some-of-this-was-interesting/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/some-of-this-was-interesting/</guid>
+      <description>They asked a population of people a series of questions, some true, some false, on subjects being discussed in the public at this time. All of the questions could absolutely be proven TRUE or FALSE (it was not a subjective topic). They then asked the person where they primarily got their information. The top of the graph I would have predicted. I did not expect the difference in the bottom two.</description>
+    </item>
+    
+  </channel>
+</rss>
