@@ -6,9 +6,13 @@
 <div id="doc-list" role="list">
     {{ range .Pages.ByTitle }}
     <div role="listitem">
-        <a href="{{.Permalink}}">{{.Title}} {{.Type}}</a>
+        <a href="{{.Permalink}}">
+            {{ if eq .Type "tags"}}#{{ end }}{{.Title}}
+        </a>
+        {{ if eq .Type "posts"}}
         <small>{{.Date.Format "2 Jan 2006"}}</small>
         <p>{{ .Description }}</p>
+        {{ end }}
     </div>
     {{ end }}
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Rant on Crispr"
 date: 2021-03-10
-tags: ["science", "CRISPR"]
+tags: ["science", "CRISPR", "rant"]
 draft: false
 ---
 

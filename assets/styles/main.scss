@@ -25,12 +25,22 @@ body {
 	}
 
 	> main {
-		padding-top: 5rem;
 		display: flex;
 		flex-direction: column;
+		padding-top: 3rem;
+		padding-bottom: 2rem;
 
 		header {
-			margin-bottom: 2.75rem;
+			margin-bottom: 1rem;
+
+			@media (min-width: 720px) {
+				margin-bottom: 2.75rem;
+			}
+		}
+
+		@media (min-width: 720px) {
+			padding-top: 5rem;
+			padding-bottom: 5rem;
 		}
 	}
 }

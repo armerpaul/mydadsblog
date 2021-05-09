@@ -62,3 +62,11 @@ a {
 small a {
 	color: $color-text;
 }
+
+blockquote {
+	border-left: 0.25rem solid mix($color-bg, $color-link);
+	padding-left: 1rem;
+	margin-inline-start: 1rem;
+	margin-inline-end: 1rem;
+	font-style: italic;
+}

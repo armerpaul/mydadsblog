@@ -2,7 +2,7 @@
 title: "Rant on Vaccine Efficacy"
 date: 2021-03-21
 draft: false
-tags: ["covid", "vaccines"]
+tags: ["covid", "vaccines", "rant"]
 ---
 
 A friend’s adult son was hesitant get a particular vaccine thinking one was a lot better than another.  He had heard about the different “efficacy” rates.  I also heard about a phlebotomist (the person who takes you blood) saying he was going to wait for “the vaccine for black people”.  The latter worried me the most because that person is in the health care industry and is still poorly informed.
