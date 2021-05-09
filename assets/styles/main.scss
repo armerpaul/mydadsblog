@@ -1,0 +1,26 @@
+@import "reset";
+@import "colors";
+@import "typography";
+
+@import "nav";
+@import "article";
+@import "list";
+
+html {
+	background: $color-bg;
+}
+
+body {
+	max-width: 44rem;
+	margin: 5rem 0 0 5rem;
+
+	> main {
+		padding-top: 5rem;
+		display: flex;
+		flex-direction: column;
+
+		header {
+			margin-bottom: 2.75rem;
+		}
+	}
+}

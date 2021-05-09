@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<article>
+  <section>
+    <header>
+      <h1>{{- .Title -}}</h1>
+      {{ range (.GetTerms "tags") }}
+      <small>
+        <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+      </small>
+      {{ end }}
+    </header>
+    {{- .Content -}}
+  </section>
+  <!-- <aside>
+    <label for="TableOfContents">
+      Table of Contents
+    </label>
+    <input id="TableOfContents" type="checkbox" />
+    {{- .TableOfContents -}}
+  </aside> -->
+  <!-- <div>
+    <ul>
+      {{ $related := .Site.RegularPages.RelatedIndices . "tags" "date" }}
+      {{ range $related }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div> -->
+</article>
+
+{{ end }}
