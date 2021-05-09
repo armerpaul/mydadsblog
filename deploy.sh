@@ -13,4 +13,4 @@ mv public/* .
 git add .
 git commit -am "Deploying to production on `date`"
 git push
-git checkout master
+git checkout main
