@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default " en" }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+  <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{ hugo.Generator }}
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+  {{ partial "partials/favicon.html" . }}
+  {{ partial "partials/styles.html" . }}
+</head>
+
+<body>
+  <nav role="navigation">
+    <a role="logo" href="/">My Dad's Blog</a>
+    <ul>
+      <li>
+        <a href="/posts/">All Posts</a>
+      </li>
+      <li>
+        <a href="https://blacklivesmatters.carrd.co/">Black Lives Matter</a>
+      </li>
+    </ul>
+  </nav>
+  <main role="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer role="contentinfo">
+
+  </footer>
+</body>
+
+</html>
