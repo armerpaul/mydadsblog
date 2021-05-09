@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/posts/</link>
+    <description>Recent content in Posts on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 May 2021 11:17:00 -0700</lastBuildDate><atom:link href="http://mydadsblog.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>illusions</title>
+      <link>http://mydadsblog.com/posts/illusions/</link>
+      <pubDate>Fri, 07 May 2021 11:17:00 -0700</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/illusions/</guid>
+      <description>Remember M.C.Escher?
+Back in the 70’s I worked on an advanced project to design a new computer language, and then write a compiler to translate that new language into machine code but using that new language itself to do the work. A compiler is a program which converts English language looking instructions into machine code which is a series of ones and zeros that the machine actually executes. We used that famous drawing of M.</description>
+    </item>
+    
+  </channel>
+</rss>
