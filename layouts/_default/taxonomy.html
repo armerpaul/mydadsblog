@@ -1,14 +1,12 @@
 {{ define "main" }}
 <header>
-    <h1>{{.Title}}</h1>
+    <h1>Page Categories</h1>
 </header>
 
 <div id="doc-list" role="list">
     {{ range .Pages.ByTitle }}
     <div role="listitem">
-        <a href="{{.Permalink}}">{{.Title}} {{.Type}}</a>
-        <small>{{.Date.Format "2 Jan 2006"}}</small>
-        <p>{{ .Description }}</p>
+        <a href="{{.Permalink}}">#{{.Title}}</a>
     </div>
     {{ end }}
 </div>

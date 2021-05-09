@@ -12,7 +12,17 @@ html {
 
 body {
 	max-width: 44rem;
-	margin: 5rem 0 0 5rem;
+	margin: 0;
+	padding: 1rem;
+
+	@media (min-width: 720px) {
+		padding: 3rem;
+	}
+
+	@media (min-width: 1024px) {
+		margin: 5rem 0 0 5rem;
+		padding: 0;
+	}
 
 	> main {
 		padding-top: 5rem;

@@ -1,6 +1,6 @@
 ---
 title: "illusions"
-date: 2021-05-07T11:17:00-07:00
+date: 2021-05-07
 tags: ["escher", "art"]
 draft: false
 ---
