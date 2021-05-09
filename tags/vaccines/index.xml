@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vaccines on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/vaccines/</link>
+    <description>Recent content in vaccines on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/vaccines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on Vaccine Efficacy</title>
+      <link>http://mydadsblog.com/posts/rant-on-vaccine-efficacy/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-vaccine-efficacy/</guid>
+      <description>A friend’s adult son was hesitant get a particular vaccine thinking one was a lot better than another. He had heard about the different “efficacy” rates. I also heard about a phlebotomist (the person who takes you blood) saying he was going to wait for “the vaccine for black people”. The latter worried me the most because that person is in the health care industry and is still poorly informed.</description>
+    </item>
+    
+  </channel>
+</rss>

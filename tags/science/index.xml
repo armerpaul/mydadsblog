@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/science/</link>
+    <description>Recent content in science on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on Crispr</title>
+      <link>http://mydadsblog.com/posts/rant-on-crispr/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-crispr/</guid>
+      <description>You have heard about CRISPR, I suspect. It is a gene-editing technology which can modify, delete or correct (modify) precise regions of DNA or RNA. If you want a treatise on the interaction of DNA and RNA, let me know. But in a drastic simplification: a DNA strand reproduces itself by breaking in specific places, uses RNA to make a copy of the DNA strands, and then reconnects the duplicated pieces to form a duplicate of the original.</description>
+    </item>
+    
+  </channel>
+</rss>

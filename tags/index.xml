@@ -6,11 +6,11 @@
     <description>Recent content in Tags on My Dad&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 11:17:00 -0700</lastBuildDate><atom:link href="http://mydadsblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>art</title>
       <link>http://mydadsblog.com/tags/art/</link>
-      <pubDate>Fri, 07 May 2021 11:17:00 -0700</pubDate>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://mydadsblog.com/tags/art/</guid>
       <description></description>
@@ -19,9 +19,45 @@
     <item>
       <title>escher</title>
       <link>http://mydadsblog.com/tags/escher/</link>
-      <pubDate>Fri, 07 May 2021 11:17:00 -0700</pubDate>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://mydadsblog.com/tags/escher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid</title>
+      <link>http://mydadsblog.com/tags/covid/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaccines</title>
+      <link>http://mydadsblog.com/tags/vaccines/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/tags/vaccines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRISPR</title>
+      <link>http://mydadsblog.com/tags/crispr/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/tags/crispr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>http://mydadsblog.com/tags/science/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/tags/science/</guid>
       <description></description>
     </item>
     
