@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://mydadsblog.com/tags/legal/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/posts/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/tax-fraud/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/trump/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/posts/trump-tax-fraud/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/aliens/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/math/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/rant/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/posts/rant-on-ufos/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/science/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/skeptic/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mydadsblog.com/tags/ufo/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mydadsblog.com/tags/art/</loc>
     <lastmod>2021-05-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,15 +49,6 @@
   </url><url>
     <loc>http://mydadsblog.com/posts/illusions/</loc>
     <lastmod>2021-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mydadsblog.com/posts/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mydadsblog.com/tags/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mydadsblog.com/tags/rant/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mydadsblog.com/posts/rant-on-vaccines-and-malaria/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
@@ -48,9 +78,6 @@
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mydadsblog.com/posts/rant-on-crispr/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mydadsblog.com/tags/science/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mydadsblog.com/tags/facebook/</loc>

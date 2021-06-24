@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on My Dad&#39;s Blog</title>
+    <link>http://mydadsblog.com/tags/math/</link>
+    <description>Recent content in math on My Dad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://mydadsblog.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on Ufos</title>
+      <link>http://mydadsblog.com/posts/rant-on-ufos/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://mydadsblog.com/posts/rant-on-ufos/</guid>
+      <description>Let&amp;rsquo;s do a little math. A planet 10,000 light years away (really close by astronomical scales) decides to send a ship at 99% the speed of light to intercept earth. By the way, no transmission FROM earth was emitted 10,000 years in our past, so it would be curious as to why earth would be interesting, but I digress. Somehow the planet has some ability to accelerate a ship at 99% the speed of light.</description>
+    </item>
+    
+  </channel>
+</rss>
