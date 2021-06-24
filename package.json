@@ -1,0 +1,9 @@
+{
+  "name": "mydadsblog",
+  "scripts": {
+    "start": "hugo server",
+    "post": "hugo new posts/$npm_config_post.md",
+    "post+": "hugo new posts/$npm_config_post/index.md",
+    "deploy": "./deploy.sh"
+  }
+}
