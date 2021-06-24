@@ -1,0 +1,10 @@
+<object data='' type="application/pdf"></object>
+
+<object data='{{ .Get "src" }}' type="application/pdf" width="700px" height="700px">
+	<embed src='{{ .Get "src" }}'>
+	<p>
+		This browser does not support PDFs. Please download the PDF to view it:
+		<a href='{{ .Get "src" }}'>Download PDF</a>.
+	</p>
+	</embed>
+</object>
